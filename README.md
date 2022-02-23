@@ -1,4 +1,4 @@
-- 👋  Olá eu sou a Paloma 
+ - 👋  Olá eu sou a Paloma 
 - 👀  Sou Estudante de Analise de Desenvolvimento de Sistemad 
 - 🌱 Ate agoa na faculdade eu vi um pouco das linguans de programação de Java e C#  e etou atualmente no 3° semestre ! 
 - 💞️ Estou em busca do meu 1 ° estagio na are a de TI ! 
