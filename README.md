@@ -4,4 +4,3 @@
 - 📫 Podem Falar comigo ataves do e-mail: Paah.dinamus.2017@gmail.com ou pelo meu whtas : 11 953865826
 - Estagiaria de  Front - End a 7 meses  ! 
 - Experiência somente com  HTML  mas estou sempre em busca de evoluir e aprender as outras duas linguagens CSS E Java Script  
-- 
